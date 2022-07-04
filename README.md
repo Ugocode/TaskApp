@@ -1,4 +1,4 @@
-# schedule_app
+# Task App
 
 <img src="./homep.png" width="240"><img src="./addT.png" width="240"><img src="./date1.png" width="240"><img src="./update1.png" width="240">
 

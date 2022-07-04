@@ -1,6 +1,6 @@
 # schedule_app
 
-<img src="./homeScreen.png" width="250">,   <img src="./addTask.png" width="250">   <img src="./updatetask.png" width="250">
+<img src="./homep.png" width="240"><img src="./addT.png" width="240"><img src="./date1.png" width="240"><img src="./update1.png" width="240">
 
 
 
